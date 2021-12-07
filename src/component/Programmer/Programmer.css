@@ -1,0 +1,18 @@
+img{
+    border-radius: 50%;
+    align-items: center;
+    width:250px; 
+    height:250px;
+}
+.card-style{
+    padding: 15px 15px;
+    background-color: #082032;
+    color: #ffffff;
+}
+.txt{
+    color: #F0A500;
+}
+.element1{
+    font-size: 40px;
+    margin-top: 8px;
+}

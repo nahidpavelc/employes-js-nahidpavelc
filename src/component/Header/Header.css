@@ -1,0 +1,13 @@
+*{
+    font-style: none;
+}
+.headertxt {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    background-color: #082032;
+    padding: 10px;
+}
+.txt-col{
+    color: #F0A500;
+}
